@@ -33,5 +33,5 @@ The detector type, antenna configuration, modulation order, ADC resolution, SNR 
 
 ## Main Algorithms
 
-- `detectors/SEEP_detection.m`: SEEP detector
-- `detectors/ApproSEEP_detection.m`: ApproSEEP detector
+- `Matlab code/detectors/SEEP_detection.m`
+- `Matlab code/detectors/ApproSEEP_detection.m`
